@@ -5,9 +5,8 @@
 
 <details>
     <summary>Приклади перекладу:</summary>
-    <img width="75%" alt="Логотип" title="Логотип" src="assets/images/examples/title_utd.png">
-    <img width="75%" alt="Заставка" title="Заставка" src="assets/images/examples/intro_utd.png">
-    <img width="75%" alt="Набір ім'я" title="Набір ім'я" src="assets/images/examples/naming_utd.gif">
+    <img width="75%" alt="Логотип" title="Логотип" src="assets/example_intro.jxl">
+    <img width="75%" alt="Заставка" title="Заставка" src="assets/example_title.jxl">
     <img width="75%" alt="Збереження" title="Збереження" src="assets/images/examples/save_utd.png">
     <img width="75%" alt="Опудало. Стоїть." title="Опудало. Стоїть." src="assets/images/examples/dummy_utd.png">
     <img width="75%" alt="СРАКА ЛІНИВА!!!" title="СРАКА ЛІНИВА!!!" src="assets/images/examples/lazyass_utd.gif">
@@ -17,10 +16,10 @@
     <img width="75%" alt="Вітаємо в Жаркраї!" title="Вітаємо в Жаркраї!" src="assets/images/examples/welcome_utd.gif">
     <img width="75%" alt="Звісно хочу." title="Звісно хочу." src="assets/images/examples/hotanimals_utd.gif">
 
-![Логотип](assets/images/examples/title_utd.png "Логотип")
-![Заставка](assets/images/examples/intro_utd.png "Заставка")
-![xxx](assets/images/examples/naming_utd.gif "xxx")
-![xxx](assets/images/examples/save_utd.png "xxx")
+![Логотип](assets/example_intro.jxl "Логотип")
+![Заставка](assets/example_title.jxl "Заставка")
+![xxx](assets/example_name.webp "xxx")
+![xxx](assets/example_save.jxl "xxx")
 </details>
 
 # Особливості перекладу
