@@ -16,7 +16,11 @@
     <img width="75%" alt="Сподіваюся, мені ніхто не завадить його забрати." title="Сподіваюся, мені ніхто не завадить його забрати." src="assets/images/examples/legend_utd.png">
     <img width="75%" alt="Вітаємо в Жаркраї!" title="Вітаємо в Жаркраї!" src="assets/images/examples/welcome_utd.gif">
     <img width="75%" alt="Звісно хочу." title="Звісно хочу." src="assets/images/examples/hotanimals_utd.gif">
-    
+
+![Логотип](assets/images/examples/title_utd.png "Логотип")
+![Заставка](assets/images/examples/intro_utd.png "Заставка")
+![xxx](assets/images/examples/naming_utd.gif "xxx")
+![xxx](assets/images/examples/save_utd.png "xxx")
 </details>
 
 # Особливості перекладу
